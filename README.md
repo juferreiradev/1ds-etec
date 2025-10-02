@@ -1,4 +1,5 @@
-#Aula de Github e Vercel com o professor Jean 
+# Aula de Github e Vercel com o professor Jean 
 
-* Git e Github 
-*Vercel 
+    * Git e Github
+
+    * Vercel 
